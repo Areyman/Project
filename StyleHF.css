@@ -1,0 +1,12 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.Background{
+	background-position: center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+	background-image: url(../pics/HFBack.jpg);
